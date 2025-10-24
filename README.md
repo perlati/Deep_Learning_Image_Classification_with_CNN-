@@ -1,15 +1,16 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 🧠 CIFAR-10 Deep Learning: Baseline to Near-SOTA
+
 Framework: TensorFlow/Keras 2.14+
- Date: October 2025
- Goal: Progressive image classification pipeline from scratch CNN → transfer learning → optimized ResNet
+Date: October 2025
+Goal: Progressive image classification pipeline from scratch CNN → transfer learning → optimized ResNet
 
 📌 Project Overview
 This project implements three approaches to CIFAR-10 classification, demonstrating the evolution from basic architectures to production-ready models:
-Custom CNN Baseline - Strong from-scratch architecture
-MobileNetV2 Transfer Learning - Efficient fine-tuning approach
-Wide ResNet-28-10 + MixUp - High-accuracy optimized model
+ Custom CNN Baseline - Strong from-scratch architecture
+ MobileNetV2 Transfer Learning - Efficient fine-tuning approach
+ Wide ResNet-28-10 + MixUp - High-accuracy optimized model
 
 📁 Repository Structure
 .
