@@ -166,6 +166,7 @@ Realistic ceiling: ~98-99% (current SOTA with Vision Transformers)
 Our WRN-28-10 at 97% operates near the practical limit for ResNet-family architectures.
 
 🗺️ Future Work
+
 Vision Transformer (ViT) baseline
 CutMix and AutoAugment integration
 Model calibration analysis (ECE metrics)
@@ -173,6 +174,7 @@ ONNX/TFLite export for deployment
 Adversarial robustness testing
 
 📚 References
+
 Wide ResNet: Zagoruyko & Komodakis, 2016
 MixUp: Zhang et al., 2018
 MobileNetV2: Sandler et al., 2018
