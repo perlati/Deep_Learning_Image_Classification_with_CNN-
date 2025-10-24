@@ -16,17 +16,11 @@ This project implements three approaches to CIFAR-10 classification, demonstrati
 .
 ├── README.md
 ├── requirements.txt
+├── model.keras (MobileNetV2 Transfer Learning)
 ├── src/
-│   ├── train_cnn_baseline.py
-│   ├── train_mobilenetv2.py
-│   ├── train_wrn28_10.py
-│   └── utils.py
+│   └── app.py
 ├── notebooks/
 │   └── analysis.ipynb
-└── runs/
-    ├── cnn_baseline/
-    ├── mobilenetv2/
-    └── wrn_supreme/
 
 ⚙️ Setup
 bash
